@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BExpence_Traker%7D/static/css/main.feded974.css",
+    "main.js": "/%7BExpence_Traker%7D/static/js/main.462b0e32.js",
+    "index.html": "/%7BExpence_Traker%7D/index.html",
+    "main.feded974.css.map": "/%7BExpence_Traker%7D/static/css/main.feded974.css.map",
+    "main.462b0e32.js.map": "/%7BExpence_Traker%7D/static/js/main.462b0e32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feded974.css",
+    "static/js/main.462b0e32.js"
+  ]
+}
